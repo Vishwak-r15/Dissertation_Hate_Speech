@@ -1,0 +1,1 @@
+This Folder Contains the Test Scenarios when executed in the prototype such as Neutral Content , Offensive Language and Hate-Speech.
